@@ -1,0 +1,2 @@
+# myFirstRepository
+study for gitResposity
