@@ -1,2 +1,8 @@
 第一个命令：git clone git@github.com:chenpuzhen/helloGit.git
 下载远程remote上的文件
+
+第二个命令：git init
+这个命令是用于把当前的目录作为git仓库使用。和git clone命令的使用的场景是：
+git clone是在已有的git仓库下使用，是已经创建好的。
+git init则是用于创建git仓库的，创建好了之后如果放到远程了，则别人可以用git clone下载下来了。
+如果没有放到远程，则也只是本地的一个git仓库。
