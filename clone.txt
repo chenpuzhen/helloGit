@@ -13,3 +13,5 @@ git init则是用于创建git仓库的，创建好了之后如果放到远程了
 第四个命令：git log和git reflog,
 git log 是查询所有提交的版本记录
 git reflog查询所有操作记录，包括删除和reset的操作
+
+测试切换分支时，工作区的变换。
